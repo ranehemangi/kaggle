@@ -20,4 +20,4 @@ URL : https://github.com/ranehemangi/kaggle/tree/main/kinship/marathi_kinship_te
 
 License: CC BY 4.0 or Open Database License (ODbL)
 
-Author: Hemangi Rane
+Author: Hemangi
